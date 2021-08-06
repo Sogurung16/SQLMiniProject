@@ -2,7 +2,7 @@
 
 ## Description
 
-Created a mini SQL project to practice and learn the SQL commands with focus around DDL and DML commands by carrying out required tasks. Tasks were grouped in exercises files 1, 2 and 3. Exercise 1 and 3 involved the utilisation of DML commands to manipulate the northwind database. The resultant solution data generated in Azure Data Studio was exported to Microsoft Excel to represent the data using graphs. While exercise 2 involved the utilisation of DDL commands to create a database and modify the structure of database objects in the database.
+Created a mini SQL project to practice and learn the SQL commands with focus around DDL and DML commands by carrying out required tasks. Tasks were grouped in exercises files 1, 2 and 3. Exercise 1 and 3 involved the utilization of DML commands to manipulate the northwind database. The resultant solution data generated in Azure Data Studio was exported to Microsoft Excel to represent the data using graphs. While exercise 2 involved the utilization of DDL commands to create a database and modify the structure of database objects in the database.
 
 ### Prerequisites
 - Azure Data Studio
