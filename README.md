@@ -6,7 +6,7 @@ Created a mini SQL project to practice and learn the SQL commands with focus aro
 
 ### Prerequisites
 - Azure Data Studio
- - https://azure.microsoft.com/en-gb/services/developer-tools/data-studio/#overview
+  - https://azure.microsoft.com/en-gb/services/developer-tools/data-studio/#overview
 - Microsoft Excel
 
 ### Executing program
